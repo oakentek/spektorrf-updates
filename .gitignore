@@ -1,0 +1,6 @@
+*.app/
+*.zip
+.DS_Store
+*.pem
+*eddsa*
+*.key

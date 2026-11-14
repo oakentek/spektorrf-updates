@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SpektorRF</title>
+    <link>https://raw.githubusercontent.com/oakentek/spektorrf-updates/main/appcast.xml</link>
+    <description>SpektorRF macOS Sparkle updates (test feed). Binaries only — no source.</description>
+    <language>en</language>
+    <!-- Items are added by RFExplorerMac/tools/publish_sparkle_github_release.sh -->
+  </channel>
+</rss>
