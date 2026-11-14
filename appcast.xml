@@ -7,7 +7,7 @@
     <language>en</language>
     <item>
       <title>Version 0.9.2</title>
-      <pubDate>Sat, 14 Nov 2026 02:35:41 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 02:43:36 +0000</pubDate>
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -17,9 +17,9 @@
       ]]></description>
       <enclosure
         url="https://github.com/oakentek/spektorrf-updates/releases/download/v0.9.2/SpektorRF.zip"
-        length="3913931"
+        length="3918841"
         type="application/octet-stream"
-        sparkle:edSignature="ycBfUYGrLY/AawwnEJCdT1cvS2fbDVUqi5vWdNysFaxP2K9iHsGYYb6MdQBYu48QznuXWhaF64Vyunnp5fagAQ==" />
+        sparkle:edSignature="0mXoCrj5GQ4Jlt1pfMY5XTUSgUf/0bHJ33fSHonHX5eUmw/oFfoPXG/AYDf/J9HTu5X+2wmAd+6XS+Rh+rlDBg==" />
     </item>
   </channel>
 </rss>
